@@ -1,1 +1,3 @@
-Este archivo es del alumno Jose Carbonel - U23309477
+"U23309477"
+Usuario de git: JoseCarbonel
+Nombre: Jose Eduardo Carbonel Del Castillo
