@@ -1,1 +1,1 @@
-"este es mi priemr archivo creado" con cambios
+"este es mi priemr archivo creado"
