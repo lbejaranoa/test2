@@ -1,0 +1,1 @@
+/*algoritmo de generacion de token*/
