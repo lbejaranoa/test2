@@ -1,29 +1,61 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>U22209574</title>
+    <title>La Brooasteria</title>
 </head>
 
 <body>
-    <H1>La Brooasteria</H1>
 
-    <h3>Menu</h3>
+    <main class="contenedor">
 
-    <h2>Pedido</h2>
+        <h1>La Brooasteria</h1>
+        <p class="subtitulo">Pollos y comida rápida</p>
 
-    <p>Cantidad de broasters: <span id="cantidad">0</span></p>
+        <section class="menu">
+            <h2>Menú</h2>
 
-    <button onclick="agregarBroaster()">Agregar broaster</button>
+            <div class="producto">
+                <div>
+                    <h3>Broaster clásico</h3>
+                    <p>Pollo broaster con papas.</p>
+                </div>
+                <span>S/ 12</span>
+            </div>
+
+            <div class="producto">
+                <div>
+                    <h3>Salchipapa</h3>
+                    <p>Salchipapa clásica.</p>
+                </div>
+                <span>S/ 10</span>
+            </div>
+        </section>
+
+        <section class="pedido">
+            <h2>Mi pedido</h2>
+
+            <p>Cantidad de broasters:</p>
+
+            <div class="contador">
+                <button onclick="quitarBroaster()">−</button>
+
+                <span id="cantidad">0</span>
+
+                <button onclick="agregarBroaster()">+</button>
+            </div>
+
+            <p class="total">
+                Total: S/ <span id="total">0</span>
+            </p>
+        </section>
+
+    </main>
 
     <script src="script.js"></script>
-
-    <p>Broaster clásico - S/ 12</p>
-    <p>Salchipapa - S/ 10</p>
-
 
 </body>
 
