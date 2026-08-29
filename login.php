@@ -1,2 +1,2 @@
 /*generacion del login pp  */
-/*Modificando este archivo php - U22321659  */
+/*Modificando este archivo U22321659  */
