@@ -1,0 +1,5 @@
+git pull_ sirve para traer los cambios del repo remoto y combinarlo con el localgit 
+
+*NOMBRE: JULIO GABRIEL PALACIOS VIVES
+CARRERA: ING DE SISTEMAS
+REGLA: SIEMPRE MANTENER EL ORDEN Y TRABAJAR EN RAMAS PARA MANTENER LA TRAZABILIDAD
