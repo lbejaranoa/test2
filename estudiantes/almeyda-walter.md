@@ -1,4 +1,4 @@
-# Ficha del Estudiante
+Ficha del Estudiante
 
 Nombre completo:  Almeyda
 Carrera: Ingeniería de Sistemas
