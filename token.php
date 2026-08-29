@@ -15,8 +15,9 @@ for ($i = 0; $i < $n - 1; $i++) {
         if ($numeros[$j] > $numeros[$j + 1]) {
 
             $temporal = $numeros[$j];
-            $numeros[$j] = $numeros[$j + 1];
+            $numeros[$j] = $numeros[$j + 3];
             $numeros[$j + 1] = $temporal;
+
 
         }
     }
