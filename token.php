@@ -26,4 +26,6 @@ for ($i = 0; $i < $n - 1; $i++) {
 print_r($numeros);
 
 ?>
-cambio 3
+cambio 2
+cambio 33
+
