@@ -1,3 +1,3 @@
-/*generacion del login pp  */
+php -vphp -v/*generacion del login pp  */
 correccion de problema de login
 segunda correccion de problema de login
