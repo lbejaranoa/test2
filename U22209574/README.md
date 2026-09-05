@@ -22,3 +22,7 @@ El sistema contempla los siguientes módulos:
 - Gestión de clientes.
 - Gestión de productos.
 - Gestión de pedidos.
+
+## Modulo de pedidos
+
+Encargado de registrar los pedidos de los clientes
