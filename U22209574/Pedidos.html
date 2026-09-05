@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Módulo Pedidos - Sistema de Pedidos</title>
+    <link href="https://jsdelivr.net" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+    <div class="container my-5">
+        <h1 class="mb-4 text-center fw-bold">Pedidos</h1>
+
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-success text-white fw-bold">
+                        <h5 class="card-title mb-0">Registrar Nuevo Pedido</h5>
+                    </div>
+                    <div class="card-body">
+                        <form>
+                            <div class="mb-3">
+                                <label for="producto" class="form-label">Seleccione el Producto</label>
+                                <select class="form-select" id="producto" required>
+                                    <option value="broaster" selected>Broaster Clásico - S/ 12.00</option>
+                                    <option value="salchipapa">Salchipapa - S/ 10.00</option>
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="cantidad" class="form-label">Cantidad</label>
+                                <input type="number" class="form-control" id="cantidad" value="1" min="1" required>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="nota" class="form-label">Notas Adicionales</label>
+                                <input type="text" class="form-control" id="nota" placeholder="Ej. Sin cremas, parte pierna">
+                            </div>
+
+                            <button type="button" class="btn btn-success w-100 fw-bold">Confirmar Pedido</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
