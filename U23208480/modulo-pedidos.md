@@ -1,5 +1,7 @@
 # Módulo Pedidos - Integrante D
 
+Archivo md creado para el trabajo grupal del módulo de pedidos.
+
 Equipo:
 - Juan César Retuerto Ibañez - U23208480
 - ALBERTO JOEL RAMIREZ PONTE - U23249035
