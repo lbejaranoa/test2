@@ -1,0 +1,26 @@
+public class Main{
+
+    public void ejecucion(){
+        
+        Pedido objPedido= new Pedido(); 
+        objPedido.enviarPedido(1001,20, "caja con ropa"); //todo el peru
+        //pedidos internacionales
+        // 
+        
+        dhl.registrarPedido(idcliente,peso,descripcion)
+        dhlAdaptador.enviarPedido(idcliente,peso,descripcion); 
+
+        private List<PedidoObserver> observers = new ArrayList<>();
+
+        observers.add(new EmailObserver());
+        observers.add(new WhatsappObserver());
+
+        notificarObservers(); 
+
+        private void notificarObservers(){
+            for(PedidoObserver observer: observers){
+                observer.actualizar(); 
+            }
+        }
+    }
+}
