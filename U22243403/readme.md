@@ -9,9 +9,9 @@ Integrantes:
 Este sistema esta diseñado para realizar pruebas en las clases
 
 Las tecnologias usadas sera:
--
--
--
--
+- Github(trabajo colaborativo)
+- Html
+- Java
+- Pyton
 
 Este proyecto es el prototipo inicial
