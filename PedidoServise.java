@@ -1,15 +1,20 @@
 public class PedidoService {
 
     public void registrarPedido(String cliente, double total) {
-
+		
         if (total <= 0) {
             System.out.println("Error: el total debe ser mayor a cero.");
             return;
         }
+		
+		double igv = total * 0.18;
+        double totalConIgv = total + igv;
 
-        System.out.println("Pedido registrado correctamente");
+        System.out.println("Pedido registrado");
         System.out.println("Cliente: " + cliente);
-        System.out.println("Total: S/ " + total);
+        System.out.println("Subtotal: S/ " + total);
+        System.out.println("IGV: S/ " + igv);
+        System.out.println("Total: S/ " + totalConIgv);									 
     }
 
     public static void main(String[] args) {
