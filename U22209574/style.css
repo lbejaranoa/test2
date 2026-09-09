@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: brown;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
