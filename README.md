@@ -16,7 +16,7 @@ Este proyecto corresponde al trabajo grupal desarrollado para el curso. El repos
 
 \* Integrante A: U22243403
 
-\* Integrante B
+\* Integrante B: U23210004
 
 \* Integrante C
 
