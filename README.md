@@ -18,7 +18,7 @@ Este proyecto corresponde al trabajo grupal desarrollado para el curso. El repos
 
 \* Integrante B: U23210004
 
-\* Integrante C
+\* Integrante C: U23257878
 
 \* Integrante D
 
@@ -62,5 +62,12 @@ La rama principal del proyecto es `main`. Cada integrante puede trabajar en una 
 
 La actividad correspondiente al Integrante A consiste en mejorar el README y la documentación general del proyecto.
 
+\## Integrante C
 
+La actividad correspondiente al Integrante C consiste en actualizar las tecnologias que se emplean del proyecto.
 
+\##  Tecnologias Empleadas:
+- Github(trabajo colaborativo)
+- Html
+- Java
+- Pyton
