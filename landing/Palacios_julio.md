@@ -1,1 +1,0 @@
-git pull_ sirve para traer los cambios del repo remoto y combinarlo con el local
