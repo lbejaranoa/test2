@@ -74,7 +74,7 @@ gantt
 - Si el 03/11 alguno no está terminado, se recorta su alcance al mínimo y se mueve lo demás a la segunda versión, para no retrasar Reservas.
 - Pagos online queda fuera de la primera versión desde el inicio, para no sumar el riesgo de una pasarela externa.
 
-## 7. Explicación de 2 minutos sobre la decisión
+## 7. Explicación sobre la decisión
 
 La empresa pide el sistema en 6 semanas y tenemos seis funcionalidades. Decidimos que la primera versión incluya solo Reservas, Clientes y Servicios, porque son las dos prioridades Altas y la Crítica, y juntas permiten el flujo completo de reservar. Recordatorios, Reportes y Pagos online dependen de que ya existan reservas, así que no pierden valor si esperan a la segunda versión.
 
